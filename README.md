@@ -1,4 +1,4 @@
-Edited by MSk....
+Edited by Mohammad Salman Khurshid
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
